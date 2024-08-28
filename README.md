@@ -6,3 +6,5 @@ Passo a Passo:
 1. Execute o projeto com o seguinte comando <b>dotnet Global.Motorcycle.Api.dll</b> ou se preferir acesse a solução pelo <b>Visual Studio</b>.
 
 2. Acesse o endpoint da documentação da api em seu navegador https://localhost:7085/swagger/index.html
+
+3. Execute o seguinte docker-compose para criação do banco de dados, cache e broker kafka: https://github.com/p10solutions/Global.MotoDelivery.Docs/blob/main/docker-compose.yml 
